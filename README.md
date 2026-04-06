@@ -10,6 +10,9 @@
 ```
 
 ### building systems that think · backend × AI · class of 2027
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshitha-kotvala&color=blue)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-kotvala-2982412ab)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshithakotvala/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kotvalaharshitha@gmail.com)
